@@ -1,0 +1,4 @@
+grep
+This command can be used to look through a file
+e.g grep *.txt
+  this will find txt files
