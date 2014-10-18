@@ -1,0 +1,5 @@
+wc = Word Count 
+
+e.g $ wc Longtext.txt 
+
+this will tell you how many words in text document
